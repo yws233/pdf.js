@@ -1,5 +1,6 @@
 # pdf.js
-pdf.js插件构建
+pdf.js插件构建插件
+
 官网：https://mozilla.github.io/pdf.js/
 
 Github项目: https://github.com/mozilla/pdf.js
